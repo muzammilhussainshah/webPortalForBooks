@@ -1,0 +1,43 @@
+
+.MuiButton-contained-42 {
+    background-color: #002c5b !important;
+  }
+
+
+  .MuiInput-underline-5:after {
+      border-bottom: 2px solid #002c5b !important;
+}
+
+.bg-primary {
+    background-color: #002c5b!important;
+}
+
+
+.btn-outline-primary {
+    color: #002c5b !important;
+    /* background-color: transparent; */
+    /* background-image: none; */
+    border-color: #002c5b !important;
+}
+
+
+.btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle {
+    color: #fff !important;
+    background-color: #002c5b !important;
+    border-color: #002c5b !important;
+}
+
+
+.btn-outline-primary:hover {
+    color: #fff !important;
+    background-color: #002c5b !important;
+    border-color: #002c5b !important;
+}
+
+
+
+.btn-warning {
+    color: #212529;
+    background-color: #FDBD37;
+    border-color: #FDBD37;
+}
